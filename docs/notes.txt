@@ -24,6 +24,8 @@ VirtualBox:
 - start plone on boot
 - give ci[dialog] option to disable that
 - sane server-name
+- use plone.app_get.ip for getting ip
+- create nice docs for how to get ip vi virtualbox thingies
 
 General:
 
