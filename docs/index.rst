@@ -3,20 +3,20 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to mr.builder's documentation!
-======================================
+mr.builder
+==========
+.. admonition:: Description
+
+    mr.builder is a build tool to help us building Installer
+
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
 
+   virtualbox
 
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
