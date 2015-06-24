@@ -61,3 +61,21 @@ and install it, if you wish to install it via command-line please do:
     $ sudo apt-get install virtualbox
 
 
+Importing Appliance
+===================
+
+All about howto to import the appliance.
+
+
+Appliance Setup
+===============
+
+- OS
+- cpu/ram
+- user 
+- plone build
+- networking/options
+- port forwards 
+- more ?
+
+- feedback/suggestions ?
