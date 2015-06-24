@@ -2,3 +2,8 @@
 packer_cache/
 output-plone-base-amd/
 packer/output-virtualbox-iso/
+_build/
+bin/
+lib/
+include/
+local/

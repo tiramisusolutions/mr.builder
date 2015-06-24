@@ -16,7 +16,8 @@ Contents:
    :maxdepth: 2
 
    virtualbox
-
+   vagrant
+   about/index
 
 
 
