@@ -27,7 +27,11 @@ Mac OS X
 
 If you do not have `Virtualbox <https://www.virtualbox.org>`_ installed, please `download <https://www.virtualbox.org/wiki/Downloads>`_ VirtualBox for OS X hosts.
 
-.. image:: _static/vbox_download.png
+.. thumbnail:: _static/vbox_show_osx.png
+   :width: 697px
+   :height: 392px
+   :align: center
+
 
 Windows
 -------
