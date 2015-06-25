@@ -36,6 +36,8 @@ If you do not have `Virtualbox <https://www.virtualbox.org>`_ installed, please 
 Click on the underlined link to download it. After the download is finished open the downloaded file. Now follow the steps to install VirtualBox to your machine.
 
 
+.. todo:: more pictues about installation
+
 Windows
 -------
 
@@ -53,6 +55,8 @@ Now search in the right top corner for *virtualbox*.
    :height: 392px
    :align: center
 
+
+.. todo:: more and 'fresh' pics about installation
 
 and install it, if you wish to install it via command-line please do:
 
