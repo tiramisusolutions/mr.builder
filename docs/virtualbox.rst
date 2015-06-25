@@ -13,7 +13,7 @@ VirtualBox
 Introduction
 ============
 
-To make it easier for anyone to review or evaluate `Plone <https://plone.com>`_, we created this **VirtualBox Plone Appliance**.
+To make it easier for anyone to review or evaluate `Plone <https://plone.com>`_, we provide this **VirtualBox Plone Appliance**.
 
 It is a self-contained appliance that will run independent from your current operating system.
 So you don't have to go to separate install steps. 
