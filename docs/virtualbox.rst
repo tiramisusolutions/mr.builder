@@ -13,8 +13,13 @@ VirtualBox
 Introduction
 ============
 
-To make it easier for non-developers to review `Plone <https://plone.com>`_, we created this **VirtualBox Plone Appliance**.
-You do not need to know anything about Operating Systems, Installer and so on.
+To make it easier for anyone to review or evaluate `Plone <https://plone.com>`_, we provide this **VirtualBox Plone Appliance**.
+
+It is a self-contained appliance that will run independent from your current operating system.
+So you don't have to go to separate install steps. 
+
+Do note that this is **not** meant for production environments.
+
 The only application you need is `Virtualbox <https://www.virtualbox.org>`_.
 
 Preparation
@@ -35,11 +40,14 @@ If you do not have `Virtualbox <https://www.virtualbox.org>`_ installed, please 
 
 Click on the underlined link to download it. After the download is finished open the downloaded file. Now follow the steps to install VirtualBox to your machine.
 
-
 .. todo:: more pictues about installation
 
 Windows
 -------
+
+If you do not have `Virtualbox <https://www.virtualbox.org>`_ installed, please `download <https://www.virtualbox.org/wiki/Downloads>`_ VirtualBox for Windows hosts.
+
+Once downloaded, double-click on the installer which will guide you through the installation. Depending on your version of Windows, you will be asked for permission to install non-Windows signed drivers, which are needed to complete the installation. 
 
 Ubuntu
 ------
