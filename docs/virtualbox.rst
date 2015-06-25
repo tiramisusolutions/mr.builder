@@ -32,7 +32,7 @@ Mac OS X
 
 If you do not have `Virtualbox <https://www.virtualbox.org>`_ installed, please `download <https://www.virtualbox.org/wiki/Downloads>`_ VirtualBox for OS X hosts.
 
-.. thumbnail:: ../_static/vbox_show_osx.png
+.. thumbnail:: _static/vbox_show_osx.png
    :width: 697px
    :height: 392px
    :align: center
@@ -58,7 +58,7 @@ Alternatively, search for “software” in the Dash search field.
 
 Now search in the right top corner for *virtualbox*.
 
-.. thumbnail:: ../_static/ubuntu_software_center.png
+.. thumbnail:: _static/ubuntu_software_center.png
    :width: 697px
    :height: 392px
    :align: center
@@ -77,6 +77,9 @@ Importing Appliance
 ===================
 
 All about howto to import the appliance.
+
+
+.. todo:: here screens 
 
 Starting
 ========
