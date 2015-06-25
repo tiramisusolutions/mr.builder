@@ -15,7 +15,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   virtualbox
+   virtualbox/index
    vagrant
    todo
    about/index
