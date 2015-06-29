@@ -21,8 +21,6 @@ CPU: 1
 
 RAM: 1024MB
 
-VM
---
 Operating System
 ----------------
 
