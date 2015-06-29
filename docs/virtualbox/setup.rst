@@ -55,10 +55,17 @@ User
 
 Username: plone_user
 sudo: yes
+password: 123456plonedemo
+
+.. warning:: Please do **not** use this appliance in production, is is not build for this!
 
 Plone
 -----
 version: 5.0a2
+user: admin
+password: plone
+
+.. warning:: Please do **not** use this appliance in production, is is not build for this!
 
 - more ?
 
