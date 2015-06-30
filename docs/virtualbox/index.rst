@@ -9,6 +9,11 @@ VirtualBox
         and start the appliance.
 
 .. contents:: :local:
+.. toctree::
+   :maxdepth: 2
+
+   setup
+
 
 Introduction
 ============
