@@ -124,9 +124,4 @@ Plone
 Open your browser and enter: https://localhost:8080/Plone
 
 
-More References
----------------
 
-- changing network setup
-- oevrview about the setup
-- more ...
