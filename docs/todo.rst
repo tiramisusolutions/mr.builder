@@ -2,12 +2,9 @@
 ToDo
 ====
 
-- add hwoto about supervisior to docs
-- change user or build location plone/Plone is confusing
+- add howto about supervisior to docs
 - add nice bashrc
-- better password for server, maybe even user admin ?
 - do we need a get_ip_script ?
-- replace screen shots, with new and fresh ones, like from a default and clean Ubuntu install 
 
 Network
 -------
