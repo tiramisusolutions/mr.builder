@@ -78,19 +78,44 @@ and install it, if you wish to install it via command-line please do:
     $ sudo apt-get install virtualbox
 
 
+Downloading Appliance
+=====================
+
+Browse to `dist.plone.org/vm <https://dist.plone.org/vm>`_ and click on plone5.0-ubuntu-appliance to download it.
+
 Importing Appliance
 ===================
 
-All about howto to import the appliance.
+After the download is finished you can import it into VirtualBox. In order to do that, first you have to *unzip* the file you just downloaded.
+Go into your download folder [or to the folder where you saved the file], *right* click with the moouse on it and choose *unzio*.
+
+After that is done, please start VirtualBox on your machine. If all went well you will see something what will look similar like the picture.
+
+.. note:: Depending if you use Windows, Mac or Linux it is possible that it will look slightly different.
+
+.. thumbnail:: ../_static/virtualbox_start_screen.png
+   :width: 697px
+   :height: 392px
+   :align: center
+
+- Lets import the image, click on **File** -> **Import Appliance**
+- Click **Open appliance** and navigate to the already downloaded and unzipped image
+- Click **open** again
+- Click **Next**
+- Click **Import**
+- Wait till import is done
+
 
 Starting
 ========
 
+ - choose the appliance image, click on start and hopefully the fresh imported image will boot.
 
 All about Starting
 
 .. todo:: here screens
 
+- Wait till you see a login screen, that means the Appliance is booted and ready.
 
 Plone
 =====
